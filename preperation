@@ -1,0 +1,691 @@
+/*#include <stdio.h>*/
+
+/*int main()
+{
+    int grade;
+    printf("Enter your grade ");
+    scanf("%d",&grade);
+    switch(grade)
+    {
+        case 1:
+        printf("A\n");
+        break;
+        case 2:
+        printf("B\n");
+        break;
+        case 3:
+        printf("C\n");
+        break;
+        case 4:
+        printf("D\n");
+        break;
+        case 5:
+        printf("F\n");
+        break;
+        default:
+        printf("Error\n");
+    }
+    return 0;
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int a=10;
+    if(a=11)
+    printf("I am 11");
+    else
+    printf("I am not 11");
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int sub1,sub2,sub3;
+    float total;
+    printf("Marks in sub1 ");
+    scanf("%d",&sub1);
+    printf("Marks in sub2 ");
+    scanf("%d",&sub2);
+    printf("Marks in sub3 ");
+    scanf("%d",&sub3);
+    total=(sub1+sub2+sub3)/3;
+    printf("Your total is %f\n",total);
+    if(sub1>33 && sub2>33 && sub3>33)
+    {
+        if(total>40)
+        {
+            printf("Congrats!! you have passed the exams..");
+        }
+        else
+        {
+            printf("You  have failed in the exam due to less total..");
+        }
+    }
+    else
+    {
+        printf("You have failed due to less marks in any of the subject..");
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    float tax=0,income;
+    printf("Enter your income ");
+    scanf("%f",&income);
+    if(income>=250000 && income<=500000)
+    {
+        tax=tax+(0.05*(income-250000));
+    }
+    if(income>=500000 && income<=1000000)
+    {
+        tax=tax+(0.2*(income-500000));
+    }
+    if(income>=1000000)
+    {
+        tax=tax+(0.3*(income-1000000));
+    }
+    printf("Tax to be paid %f\n",tax);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int leap_year;
+    printf("Enter the year ");
+    scanf("%d",&leap_year);
+    if(leap_year%4==0)
+    {
+        printf("The year entered by the user is the leap year");
+    }
+    else
+    {
+        printf("The year entered by the user is not the leap year");
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    char ch;
+    printf("Enter the character ");
+    scanf("%c",&ch);
+    if(ch>=97 && ch<=122)
+    {
+        printf("The character entered by the user is lowercase");
+    }
+    else
+    {
+        printf("The character entered by the user is uppercase");
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int num1,num2,num3,num4,f1,f2;
+    printf("Enter the first number ");
+    scanf("%d",&num1);
+    printf("Enter the second number ");
+    scanf("%d",&num2);
+    printf("Enter the third number ");
+    scanf("%d",&num3);
+    printf("Enter the fourth number ");
+    scanf("%d",&num4);
+    if(num1>num4)
+    {
+        f1=num1;
+    }
+    else
+    {
+        f1=num4;
+    }
+    if(num2>num3)
+    {
+        f2=num2;
+    }
+    else
+    {
+        f2=num3;
+    }
+    if(f1>f2)
+    {
+        printf("%d is the greatest number",f1);
+    }
+    else
+    {
+        printf("%d is the greatest number",f2);
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int a;
+    printf("Enter the value ");
+    scanf("%d",&a);
+    while(a<10)
+    {
+        printf("The a is %d\n",a);
+        a++;
+    }
+    printf("Done!!");
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int n=0;
+    while(n<=20)
+    {
+        if(n>=10)
+        {
+            printf("The value of n is %d\n",n);
+        }
+        n++;
+    }
+    printf("Done!!");
+ 
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i;
+    do
+    {
+        printf("The value of i is %d\n",i);
+        i++;
+    }
+    while(i<=10);
+    
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int n;
+    printf("Enter the value ");
+    scanf("%d",&n);
+    do
+    {
+        printf("The natural number n is %d\n",n);
+        n++;
+    }
+    while(n<=20);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int a;
+    for(a=0;a<=15;a++)
+    {
+        printf("The value of a is %d\n",a);
+    }
+    printf("Done!!");
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int n;
+    for(n=1;n<=10;n++)
+    {
+        printf("The natural number n is %d\n",n);
+    }
+    printf("Done!");
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int n;
+    for(n=10;n>=1;n--)
+    {
+        printf("The natural number n is %d\n",n);
+    }
+    printf("Done!");
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i;
+    for(i=0;i<=100;i++)
+    {
+        printf("The value of i is %d\n",i);
+        if(i==5)
+        {
+           break;
+        }
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int num=2;
+    while(num<22)
+    {
+        printf("Multiplication table of 2 is %d\n",num);
+        num=num+2;
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int n=30;
+    while(n>2)
+    {
+        printf("Multiplication table of 3 in reverse order is %d\n",n);
+        n=n-3;
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i;
+    for(i=10;i;i--)
+    {
+        printf("10X%d=%d\n",i,10*i);
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i;
+    printf("Multiplication table of 7....\n");
+    for(i=1;i<11;i++)
+    {
+        printf("7X%d=%d\n",i,7*i);
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i,sum=0;
+    for(i=1;i<11;i++)
+    {
+        sum=sum+i;
+    }
+    printf("The sum of first 10 natural numbers is %d\n",sum);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i=1,sum=0;
+    do
+    {
+        sum=sum+i;
+        i++;
+    }
+    while(i<11);
+    printf("The sum of first 10 natural numbers is %d\n",sum);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i=1,sum=0;
+    while(i<11)
+    {
+        sum=sum+i;
+        i++;
+    }
+    printf("The sumof first ten natural numbers is %d\n",sum);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i,n,factorial=1;
+    printf("The number is  ");
+    scanf("%d",&n);
+    for(i=1;i<=n;i++)
+    {
+        factorial=factorial*i;
+    }
+    printf("The factorial is %d is %d",n,factorial);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i=1,n,factorial=1;
+    printf("The number is ");
+    scanf("%d",&n);
+    while(i<=n)
+    {
+        factorial=factorial*i;
+        i++;
+    }
+    printf("The factorial of number is %d",factorial);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i,num,prime=1;
+    printf("The num is ");
+    scanf("%d",&num);
+    for(i=2;i<num;i++)
+    {
+        if(num%i==0)
+        {
+            prime=0;
+            break;
+        }
+    }
+    if (prime)
+    {
+        printf("Number is prime");
+    }
+    else
+    {
+        printf("Number is not a prime");
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i,num,prime=1;
+    printf("The number is ");
+    scanf("%d",&num);
+    for(i=2;i<num;i++)
+    {
+        if(num%i==0)
+        {
+            prime=0;
+            break;
+        }
+    }
+    if (prime)
+    {
+        printf("Numerb is prime");
+    }
+    else
+    {
+        printf("Number is not prime");
+    }
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int a;
+    display();
+    return 0;
+}
+void display()
+{
+    printf("Hello world");
+}*/
+/*#include<stdio.h>
+
+
+int main()
+{
+    int a=50;
+    display();
+    printf("The value of a is %d\n",a);
+    return 0;
+}
+void display()
+{
+    printf("Hello\n");
+}*/
+/*#include<stdio.h>
+void good_morning();
+void good_afternoon();
+void good_night();
+int main()
+{
+    int a;
+    good_morning();
+    good_afternoon();
+    good_night();
+    return 0;
+}
+void good_morning()
+{
+    printf("Good Morning...!!\n");
+}
+void good_afternoon()
+{
+    printf("Good Afternoon...!!\n");
+}
+void good_night()
+{
+    printf("Good Night...!!\n");
+}*/
+/*#include<stdio.h>
+void display();
+int main()
+{
+    int a=50;
+    display();
+    printf("The value of a is %d",a);
+    return 0;
+}
+void display()
+{
+    printf("Hello world\n");
+}*/
+/*#include<stdio.h>
+int sum(int a,int b);
+int main()
+{
+    int c;
+    c=sum(2,5);
+    printf("c is %d\n",c);
+    return 0;
+    
+}
+int sum(int a,int b)
+{
+    int result;
+    result=a+b;
+    return result;
+}*/
+/*#include<stdio.h>
+int square(int a);
+int main()
+{
+    int sq;
+    sq=square(5);
+    printf("Square is %d",sq);
+    return 0;
+}
+int square(int a)
+{
+    int result;
+    result=a*a;
+    return result;
+}*/
+/*#include<stdio.h>
+int average(int a,int b,int c);
+int main()
+{
+    int avg;
+    avg=average(22,33,44);
+    printf("The average of the three numbers is %d",avg);
+    return 0;
+}
+int average(int a,int b,int c)
+{
+    int result;
+    result=(22+33+44)/3;
+    return result;
+}*/
+/*#include<stdio.h>
+float force(int m);
+int main()
+{
+    float fr;
+    fr=force(50);
+    printf("The force exerted by earth on mass is %f N",fr);\
+    return 0;
+}
+float force(int m)
+{
+    float gravity=9.8,result;
+    result=50*gravity;
+    return result;
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i=8;
+    int *j;
+    j=&i;
+    printf("The value of i is %d\n",i);
+    printf("The value of i is %d\n",*j);
+    printf("The address of i is %d\n",j);
+    printf("The address of i is %d\n",&i);
+    printf("The value of j is %d\n",j);
+    printf("The value of j is %d\n",&i);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i=56;
+    int *j;
+    int **k;
+    j=&i;
+    k=&j;
+    printf("The value of i is %d\n",i);
+    printf("The value of i is %d\n",*j);
+    printf("The value of i is %d\n",**k);
+    printf("The address of i is %d\n",&i);
+    printf("The address of i is %d\n",j);
+    printf("The address of i is %d\n",*k);
+}*/
+/*#include<stdio.h>
+int swap(int *a,int *b);
+int main() 
+{
+    int x=3,y=4;
+    printf("The value of x and y before swapping is %d and %d\n",x,y);
+    swap(&x,&y);
+    printf("The value of x and y after swapping is %d and %d",x,y);
+}
+int swap(int *a,int *b)
+{
+    int temp;
+    temp=*a;
+    *a = *b;
+    *b = temp;
+}*/
+/*#include<stdio.h>
+int swap(int *a,int *b);
+int main()
+{
+    int x=10,y=12;
+    printf("The value of x and y before swapping is %d and %d\n",x,y);
+    swap(&x,&y);
+    printf("The value of x and y after swapping is %d and %d",x,y);
+}
+int swap(int *a,int *b)
+{
+    int temp;
+    temp=*a;
+    *a=*b;
+    *b=temp;
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i=12;
+    int *ptr;
+    ptr=&i;
+    printf("The address of i is %d\n",ptr);
+    printf("The value of i is %d\n",*ptr);
+}*/
+/*#include<stdio.h>
+void add(int a);
+int main()
+{
+    int i=4;
+    printf("The value of i is %d\n",i);
+    add(i);
+    printf("The address of the variable is %u\n",&i);
+}
+void add(int a)
+{
+    printf("The address of the variable is %u\n",&a);
+}*/
+/*#include<stdio.h>
+int swap(int *a);
+int main()
+{
+    int x=10;
+    printf("The value of x before changing is %d\n",x);
+    swap(&x);
+    printf("The value of x after changing is %d",x);
+    return 0;
+}
+int swap(int *a)
+{
+    int *x;
+    *a=10*10;
+}*/
+/*#include<stdio.h>
+int sum(int a,int b);
+int average(int a,int b);
+int main()
+{
+    int c,d;
+    c=sum(10,20);
+    printf("The sum of two number is %d\n",c);
+    d=average(10,20);
+    printf("The average of two number is %d\n",d);
+}
+int sum(int a,int b)
+{
+    int result;
+    result=a+b;
+    return result;
+}
+int average(int a,int b)
+{
+    int results;
+    results=(a+b)/2;
+    return results;
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int i=10;
+    int *j;
+    int **k;
+    j=&i;
+    k=&j;
+    printf("The value of i is %d\n",**k);
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int marks[4];
+    printf("Enter the marks for student 1 ");
+    scanf("%d",&marks[0]);
+    printf("Enter the marks for student 2 ");
+    scanf("%d",&marks[1]);
+    printf("Enter the marks for student 3 ");
+    scanf("%d",&marks[2]);
+    printf("Enter the marks for student 4 ");
+    scanf("%d",&marks[3]);
+    printf("The marks are %d %d %d %d",marks[0],marks[1],marks[2],marks[3]);
+    return 0;
+    
+}*/
+/*#include<stdio.h>
+int main()
+{
+    int marks[5],i;
+    for(i=0;i<5;i++)
+    {
+        printf("Enter the marks of student %d ",i+1);
+        scanf("%d",&marks[i]);
+    }
+    for(i=0;i<5;i++)
+    {
+        printf("The marks of student %d is %d\n",i+1,marks[i]);
+    }
+    return 0;
+}*/
+#include<stdio.h>
+int main()
+{
+    int i=34;
+    int *j=&i;
+    
+    printf("The  value of j is %u\n",j);
+    j++;
+    printf("The value of j is %u\n",j);
+    return 0;
+}
+
+
+
