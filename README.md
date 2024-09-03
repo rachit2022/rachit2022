@@ -33,6 +33,6 @@ Hi! My name is Rachit Gupta <img src="https://raw.githubusercontent.com/Tarikul-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachit2022&show_icons=true&locale=en&layout=compact" alt="rachit2022 width="600" height="200"/></p> 
 
 
-<img width="849" alt="Screenshot 2024-02-18 at 7 32 35 AM" src="https://github.com/Anishpuj/Anishpuj/assets/98417394/2f6d0880-6976-4cac-a32e-7fc6d5ec0637">
+<img width="849" alt="Screenshot 2024-02-18 at 7 32 35 AM" src="https://github.com/rachit2022/rachit2022/blob/master/badges.png">
 
 
