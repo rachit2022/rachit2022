@@ -37,6 +37,10 @@ Hi! My name is Rachit Gupta <img src="https://raw.githubusercontent.com/Tarikul-
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-day badge" height="200" width="200" />
 </a>
 </p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rachit_26?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
