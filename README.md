@@ -30,11 +30,11 @@ Hi! My name is Rachit Gupta <img src="https://raw.githubusercontent.com/Tarikul-
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/RAchit_26/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100-day badge" height="200" width="200" />
-</a>
 <a href="https://leetcode.com/Rachit_26/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-day badge" height="200" width="200" />
+</a>
+  <a href="https://leetcode.com/RAchit_26/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100-day badge" height="200" width="200" />
 </a>
 </p>
 <p align="center">
