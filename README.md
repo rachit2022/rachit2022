@@ -36,8 +36,8 @@ Hi! My name is Rachit Gupta <img src="https://raw.githubusercontent.com/Tarikul-
   <a href="https://leetcode.com/Rachit_26/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100-day badge" height="200" width="200" />
   </a>
-  <a href="https://pandas-link-here" target="_blank">
-    <img src="https://path_to_pandas_badge_image" alt="Introduction to pandas badge" height="200" width="200" />
+  <a href="https://leetcode.com/Rachit_26/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="Introduction to pandas badge" height="200" width="200" />
   </a>
 </p>
 <p align="center">
