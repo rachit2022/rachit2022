@@ -22,7 +22,7 @@ Hi! My name is Rachit Gupta <img src="https://raw.githubusercontent.com/Tarikul-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/g_rachitraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishpuj" height="30" width="40" /></a>
+<a href="https://x.com/g_rachitraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachit" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rachitgupta.rachit.37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anishpujari" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rachit_raj_gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anishpujxri" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rachit-gupta-54047a236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" /></a>
@@ -30,12 +30,15 @@ Hi! My name is Rachit Gupta <img src="https://raw.githubusercontent.com/Tarikul-
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-<a href="https://leetcode.com/Rachit_26/" target="_blank">
+  <a href="https://leetcode.com/Rachit_26/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-day badge" height="200" width="200" />
-</a>
-  <a href="https://leetcode.com/RAchit_26/" target="_blank">
+  </a>
+  <a href="https://leetcode.com/Rachit_26/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100-day badge" height="200" width="200" />
-</a>
+  </a>
+  <a href="https://pandas-link-here" target="_blank">
+    <img src="https://path_to_pandas_badge_image" alt="Introduction to pandas badge" height="200" width="200" />
+  </a>
 </p>
 <p align="center">
   
